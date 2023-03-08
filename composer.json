@@ -42,5 +42,7 @@
     },
     "scripts-descriptions": {
         "check": "Roda as verificações do código, PHAN, PHPCS, PHPUNIT"
-    }
+    },
+    "license": "MIT",
+    "bin": ["buscar-cursos.php"]
 }
